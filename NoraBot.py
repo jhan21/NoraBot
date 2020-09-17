@@ -3,7 +3,6 @@ from googlesearch import search
 
 
 TOKEN = open("token.txt", "r").read()
-#TOKEN = 'NzUwMTAwMjY3ODE4NjgwMzcy.X01nUA.k-sQ2eAWdBpOk-paNTFhQIsUx-c'
 
 client = discord.Client()
 
