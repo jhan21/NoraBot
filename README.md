@@ -1,5 +1,5 @@
 # NoraBot
-Discord BOt
+Discord Bot
 
 My bot for discord
 
